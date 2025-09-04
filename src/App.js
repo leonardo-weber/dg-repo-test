@@ -1,5 +1,6 @@
 import { ThemeProvider } from '@emotion/react';
-import Quiz from 'dog-trust-quiz'
+import { Quiz } from 'dog-trust-quiz'
+import 'dog-trust-quiz/global.css'
 
 function App() {
   return (
